@@ -28,11 +28,6 @@ Relative line numbers
   (setq display-line-numbers-type 'relative)
 #+end_src
 
-Font
-#+begin_src emacs-lisp
-  (set-frame-font "Iosevka Nerd Font Mono 14" nil t)
-#+end_src
-
 * Backups
 Write backups to ~/.config/emacs/backups
 #+begin_src emacs-lisp

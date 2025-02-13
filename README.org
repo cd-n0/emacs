@@ -1,0 +1,5 @@
+* Emacs configuration
+** Installation
+#+begin_src shell
+  git clone https://github.com/cd-n0/emacs ~/.config/emacs
+#+end_src

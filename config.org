@@ -25,7 +25,7 @@ Disable bars
 Relative line numbers
 #+begin_src emacs-lisp
   (global-display-line-numbers-mode)
-  (setq display-line-numbers 'relative)
+  (setq display-line-numbers-type 'relative)
 #+end_src
 
 Font

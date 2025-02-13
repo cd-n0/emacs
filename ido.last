@@ -1,0 +1,34 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/" . "cd-n0/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/cd-n0/Documents/code/c/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "MinecraftSLP.c"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/cd-n0/Documents/code/c/" (26518 60540 468003 95000) "raylib/" "DNS-BIND/" "pwnable.kr/" "check_soa/" "mysql/" "C Programming Language (2nd Edition)/" "linkedList/" "endoh/" "xd.c" "donut/" "kernel_module/" "memory-manupilation/" "gl/" "CodeVault/" "42/" "tf2cheat/" "twitch/" "problems/" "CSocket/" "MinecraftSLP.c" "SDL/" "reverse_string/" "miniaudio/" "ac_trainer/" "MegaHackv7_ClickGenerator/" "FishingCRS/" "generics/" "jpeg_tester/" "denemeler/" "server-client/" "../" "cd_hook/" "algorithmic-toolbox/" "hl-cheat/" "agtv/" "Jacob Sorber/" "cc4e/" "DSA/" "insobot/" "./" "fibonacci/" "lsp/" "hash_table/" "opengl/" "vac.c" "leetcode/" "http/" "sockets/" "Server List Ping/")
+
+ ("/home/cd-n0/Documents/code/" (26132 42508 232253 960000) "cobol/" "latex/" "rust/" "typescript/" "Ghidra/" "mastercomfigmanager/" "glsl/" "haskell/" "javascript/" "website/" "ocaml/" "lua/" "java/" "../" "python/" "arduino/" "sdfjkl/" "./" "asm/" "cpp/" "amxx/" "hugo/" "swindlesmccoop.xyz/" "c/")
+
+ ("/home/cd-n0/Documents/" (26120 9836 276074 435000) "manim/" "Github/" "handan_iphone/" "../" "wireshark/" "./" "code/" "code.7z")
+
+ ("/home/cd-n0/.Bytecode-Viewer/" (26340 49977 104071 168000) "bcv_temp/" "settings.bcv" "krakatau_12/" "../" "./" "enjarify_4/" "recentfiles.json")
+
+ ("/home/" (26065 14897 652034 187000) "../" "./" "cd-n0/")
+
+ ("/home/cd-n0/" (26542 3637 188018 675000) ".Xauthority" ".steampath" "Achievement-20241118T113608Z-001.zip" ".gradle/" ".ssh/" "a.out" ".local/" "Documents/" ".pulse-cookie" "pic-window-240914-1502-22.png" ".dmrc" "RE4B-EN.pdf" "huffman/" ".msmtprc" ".bash_history" ".gnupg/" ".pki/" "pic-full-240915-1612-29.png" "Music/" ".viminfo" "trickor.mp4" ".librewolf/" ".presage/" "pic-full-241221-1811-12.png" ".config/" "http_ca.crt" "Mail/" ".gphoto/" "Arduino/" "Huffman/" "Pictures/" "440.wav" "Public/" ".android/" ".xprofile" ".lesshst" ".ICEauthority" "MyPaint/" "fprintd-lmao.sh" ".lyrics/" "Desktop/" "pic-full-240926-0925-36.png" "Videos/" ".arduino15/" ".m2/" ".bash_logout" ".zprofile" "20240913_093926.jpg" "boids-flocking-simulation/" ".mozilla/" "certs/" ".assaultcube/" ".sqlite_history" ".flowise/" ".npm/" ".Bytecode-Viewer/" ".node_repl_history" "req.txt" "r2book.pdf" ".bashrc" "mc/" "Twitch-Channel-Points-Miner-v2/" ".zshenv" ".xsession-errors" ".python_history" "4f56ae59-5741-47c9-b193-ca31a528038f.jpg" "src/" ".xinitrc" "pic-full-240926-0925-37.png" "launchtf2" "VID_20241017_211855_107.mp4.mp4" "Templates/" "pointminer.7z" "nvim/" "snort3debian.pdf" ".profile" ".face" "GEP1315_Kendinizi_Tanıtın.docx" ".zshrc_default" ".zshrc" ".ipynb_checkpoints/" "install-jdtls.sh" ".arduinoIDE/" "hl25_cheat/" ".steampid" "JoplinBackup/" "8A091DD9-D554-4210-9F60-30BDFC6F3DB4.mov" "miniaudio.h" ".rustup/" ".gitconfig" "DCIM/" ".wine/" "test.c" "onursinan/" ".venv/" ".vimrc" "Downloads/" ".steam/" "pic-full-240926-0819-25.png" ".sudo_as_admin_successful" ".cargo/" ".wget-hsts" ".face.icon" ".java/" ".jupyter/" ".cache/" ".joplin/" ".ipython/" ".zcompdump" "signal-desktop-keyring.gpg" ".dbus/" "Eilam, Eldad - Reversing_ Secrets of Reverse Engineering (2011, John Wiley & Sons) - libgen.li.epub" "pain.mp4" ".xsession-errors.old" "Eldad Eilam - Reversing_ secrets of reverse engineering (2005, Wiley).pdf" ".vim/" ".streamlit/" "pic-full-240913-2200-58.png" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
